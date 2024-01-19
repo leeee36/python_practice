@@ -1,6 +1,0 @@
-[address]
-122.43.247.102
-3.27.238.77
-
-Access key : 04w4w4to7pcMWiWsA3UkqK1SOtZXzlPqMI4xl8xN
-Secret key : StrbMb4W8JoKyp6ABxrz4AeghoV0msYHUC6vaO6p
